@@ -4,7 +4,7 @@ Atualmente cursando Análise e desenvolvimento de sistemas.<br>Estudando program
 
 ## 🌐 Linkedin:
 
-<a target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/daniel-angelus-73b983239/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 
 
 # 💻 Tecnologias:
