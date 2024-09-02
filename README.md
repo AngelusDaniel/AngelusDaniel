@@ -4,7 +4,7 @@ Atualmente cursando Análise e desenvolvimento de sistemas.<br>Estudando program
 
 ## 🌐 Linkedin:
 
-<a target="_blank">[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+<a target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 
 
 # 💻 Tecnologias:
