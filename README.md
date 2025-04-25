@@ -21,11 +21,15 @@ Meu nome é Daniel, Atualmente cursando análise e Desenvolvimento de sistemas.
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"></div>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></div>
+
+
+
 <br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelusDaniel&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelusDaniel&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center"><img src="https://external-preview.redd.it/tOtgGEUXobAvunWDtR2Xy8TdQXR6lBvT7E7QQVTcPcw.gif?width=870&format=mp4&s=40b82a8113a2ed5ea20f8e76e28ad328d5b2d4f2" width="500"></div>
 ## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=AngelusDaniel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
