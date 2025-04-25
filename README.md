@@ -6,7 +6,7 @@ Meu nome é Daniel, Atualmente cursando análise e Desenvolvimento de sistemas.
 
 <a href="https://www.linkedin.com/in/daniel-angelus-73b983239/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 
-# 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&vCenter=true&width=435&lines=Tecnologias)](https://git.io/typing-svg)
+# 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&vCenter=true&width=435&height=25&lines=Tecnologias)](https://git.io/typing-svg)
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
